@@ -1,0 +1,26 @@
+name: egfr20ins-paper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.14
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - scipy=1.15.3
+  - scikit-learn=1.7.2
+  - matplotlib=3.10.9
+  - pillow=12.2.0
+  - seaborn=0.13.2
+  - shap=0.48.0
+  - pyradiomics=3.0.1
+  - simpleitk=2.5.5
+  - nibabel=5.4.2
+  - joblib=1.5.3
+  - tqdm=4.68.1
+  - xgboost=3.2.0
+  - imbalanced-learn=0.14.0
+  - pydicom=3.0.1
+  - pytest=8.4.2
+  - pip
+  - pip:
+      - pytorch-tabnet==4.1.0

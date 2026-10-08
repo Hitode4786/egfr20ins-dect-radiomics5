@@ -1,0 +1,8 @@
+2026-09-29 21:51:23,471 | INFO | Rebuilt main branch for explainability | branch=fusion_rfe_xgboost_calibrated | fit_seed=272 | rfe_dim=48 | calibration=sigmoid | max_score_delta=0.00000000
+<CONTROLLED_SERVER_ROOT>/scripts/run_egfr20ins_paper_explainability.py:345: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  figure.tight_layout()
+<CONTROLLED_SERVER_ROOT>/scripts/run_egfr20ins_paper_explainability.py:345: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  figure.tight_layout()
+<CONTROLLED_SERVER_ROOT>/scripts/run_egfr20ins_paper_explainability.py:345: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  figure.tight_layout()
+2026-09-29 21:51:35,179 | INFO | EGFR20ins paper explainability finished | output_dir=<CONTROLLED_OUTPUT_DIRECTORY> | shap_mode=xgboost_pred_contribs_raw | waterfall_count=3
